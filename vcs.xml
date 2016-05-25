@@ -14,8 +14,12 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="hamed.ma7@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.hmomeni.com:hamed/mykelid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/android-apps" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/android/apps" />
   </component>
 </application>
