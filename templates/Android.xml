@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="atb" value="@BindView(R.id.$resId$)&#10;$Class$ $resId$;" description="ButterKnife BindView" toReformat="false" toShortenFQNames="true">
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
