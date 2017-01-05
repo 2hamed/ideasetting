@@ -18,8 +18,12 @@
           <option name="url" value="git@gitlab.hmomeni.com:hamed/mykelid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/2hamed/audiowaveview" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/android/apps" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/apps" />
   </component>
 </application>
