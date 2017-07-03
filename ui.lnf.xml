@@ -8,5 +8,6 @@
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="DISABLE_MNEMONICS" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="547" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="7" />
   </component>
 </application>
